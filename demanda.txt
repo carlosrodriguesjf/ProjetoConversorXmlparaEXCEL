@@ -1,0 +1,5 @@
+
+Preciso extrair informações simples, em massa, de arquivos xml para excel. Basicamente são notas fiscias de clientes onde preciso fazer um consolidado.
+
+Vou inserir 500 xml no script e vai me retornar, em formna de tabela, as seguinte informações das notas fiscias
+numero da nota, emissor da nota, nome do cliente, enderço completo e separado (rua, numero, municipio), peso bruto

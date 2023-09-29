@@ -1,0 +1,70 @@
+<Nfse xmlns="http://www.abrasf.org.br/ABRASF/arquivos/nfse.xsd">
+    <InfNfse>
+        <Numero>73</Numero>
+        <CodigoVerificacao>V9CN-EPPZ</CodigoVerificacao>
+        <DataEmissao>2022-08-08T15:42:52</DataEmissao>
+        <IdentificacaoRps>
+            <Numero>72</Numero>
+            <Serie>1</Serie>
+            <Tipo>1</Tipo>
+        </IdentificacaoRps>
+        <DataEmissaoRps>2022-08-08</DataEmissaoRps>
+        <NaturezaOperacao>1</NaturezaOperacao>
+        <OptanteSimplesNacional>1</OptanteSimplesNacional>
+        <IncentivadorCultural>2</IncentivadorCultural>
+        <Competencia>2022-08-08T00:00:00</Competencia>
+        <Servico>
+            <Valores>
+                <ValorServicos>697</ValorServicos>
+                <IssRetido>2</IssRetido>
+                <BaseCalculo>697</BaseCalculo>
+                <ValorLiquidoNfse>697</ValorLiquidoNfse>
+            </Valores>
+            <ItemListaServico>0802</ItemListaServico>
+            <CodigoTributacaoMunicipio>080202</CodigoTributacaoMunicipio>
+            <Discriminacao>Combo Viver de Python e Automação.
+
+                Valor aprox dos tributos: R$ 0,00 federal, R$ 0,00 estadual e R$ 0,00 municipal
+                Fonte: IBPT 115C76</Discriminacao>
+            <CodigoMunicipio>3304557</CodigoMunicipio>
+        </Servico>
+        <ValorCredito>1.39</ValorCredito>
+        <PrestadorServico>
+            <IdentificacaoPrestador>
+                <Cnpj>25267156000164</Cnpj>
+                <InscricaoMunicipal>12931417</InscricaoMunicipal>
+            </IdentificacaoPrestador>
+            <RazaoSocial>LUCAS RIBEIRO FELIX 15423845750</RazaoSocial>
+            <NomeFantasia>LUCAS FELIX</NomeFantasia>
+            <Endereco>
+                <Endereco>RUA CARLOS OSWALD 230, APT 503 BLC 2</Endereco>
+                <Numero>230</Numero>
+                <Complemento>APT 503 BLC 2</Complemento>
+                <Bairro>BARRA DA TIJUCA</Bairro>
+                <CodigoMunicipio>3304557</CodigoMunicipio>
+                <Uf>RJ</Uf>
+                <Cep>22793917</Cep>
+            </Endereco>
+            <Contato>
+                <Telefone>21990182335</Telefone>
+                <Email>lucasrfelix01@gmail.com</Email>
+            </Contato>
+        </PrestadorServico>
+        <TomadorServico>
+            <IdentificacaoTomador>
+                <CpfCnpj>
+                    <Cpf>04746017654</Cpf>
+                </CpfCnpj>
+            </IdentificacaoTomador>
+            <RazaoSocial>Carlos Eduardo Rodrigues</RazaoSocial>
+            <Endereco />
+            <Contato>
+                <Email>carlosrodriguesjf@gmail.com</Email>
+            </Contato>
+        </TomadorServico>
+        <OrgaoGerador>
+            <CodigoMunicipio>3304557</CodigoMunicipio>
+            <Uf>RJ</Uf>
+        </OrgaoGerador>
+    </InfNfse>
+</Nfse>
